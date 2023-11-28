@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: gold;
+}
+
+#func{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 300px;
+    
+}
